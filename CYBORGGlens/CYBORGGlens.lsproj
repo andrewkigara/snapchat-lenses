@@ -1,0 +1,947 @@
+{
+    "lens_id": "",
+    "document_id": "_19rCCDslMLQTEMAcdfc",
+    "original_document_id": "_19rCCDslMLQTEMAcdfc",
+    "version": "26",
+    "lastChanged": "1613193393105",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "3",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "3",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "AmaticSC"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Face Mesh 2"
+                    ],
+                    [
+                        "Face Mesh Default"
+                    ],
+                    [
+                        "Head Mesh Default"
+                    ],
+                    [
+                        "PBR"
+                    ],
+                    [
+                        "Sphere"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Face Mesh Texture"
+                    ],
+                    [
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "VT323"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_move_your_head"
+            ],
+            "lens": "CYBORGG",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 3.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1613191858015622:143969"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1613191566715577:106827",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1613191566749391:106871",
+                    "name": "Files\/File8",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1613191566819474:106924",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1613191566831790:106940",
+                    "name": "Files\/File12.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1613191566841421:106952",
+                    "name": "Files\/File14.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1613191625783954:114412",
+                    "name": "Files\/File16.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1613191857981131:143932",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1613191858015622:143969",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1613191858085570:144042",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1613192571947568:244779",
+                    "name": "Files\/File22",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1613192865469276:284841",
+                    "name": "Files\/File24.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1613192872819269:285926",
+                    "name": "Files\/File25.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1613191566682294:106749",
+                "4": "1613191625793856:114424",
+                "5": "1613191822075618:139212",
+                "6": "1613191857977641:143900",
+                "7": "1613191857980042:143920",
+                "8": "1613192775234583:273031"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.lsmat"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.mesh"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.mesh"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.jpg"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.jpg"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.ttf"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.ttf"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Head Mesh Default.lsmat"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Sphere.mesh"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Textures\/Face Mesh Texture.jpg"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Face Mesh Default.lsmat"
+                    },
+                    {
+                        "k": "976",
+                        "v": "PBR.lsmat"
+                    },
+                    {
+                        "k": "977",
+                        "v": "AmaticSC.ttf"
+                    },
+                    {
+                        "k": "978",
+                        "v": "VT323.ttf"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "969",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "970",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "971",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "972",
+                        "v": "0f646806654fab1a8ba2fa8c4873f9a2"
+                    },
+                    {
+                        "k": "973",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "974",
+                        "v": "c1b22adb808b801d453498c35c300b9a"
+                    },
+                    {
+                        "k": "975",
+                        "v": "ade14805e87fcc1e7d7918bfa4d46e06"
+                    },
+                    {
+                        "k": "976",
+                        "v": "ae49924c992573f879519477830e1a24"
+                    },
+                    {
+                        "k": "977",
+                        "v": "c4c985708dbf7b64111359a8abb2292d"
+                    },
+                    {
+                        "k": "978",
+                        "v": "d55abc3c7d1a4719dea9fa15ccec203f"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-02-13T00:14:59",
+                        "name": "Public",
+                        "hash": "c409a56efca83baa84ba7d478ca3a7cb",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-02-13T00:14:57",
+                                "name": "Textures",
+                                "hash": "5fb615e505e6f3de5510132c6de8fb5a",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-02-12T23:50:58",
+                                        "name": "Face Mesh Texture.jpg",
+                                        "hash": "c1b22adb808b801d453498c35c300b9a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-02-12T23:46:06",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-02-12T23:46:06",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-02-12T23:46:06",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-02-12T23:46:06",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T13:27:06",
+                                "name": "AmaticSC.ttf",
+                                "hash": "c4c985708dbf7b64111359a8abb2292d",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-02-13T00:14:59",
+                                "name": "Face Mesh Default.lsmat",
+                                "hash": "b28928d1a142613fccfb800d3418dff0",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T13:27:06",
+                                "name": "VT323.ttf",
+                                "hash": "d55abc3c7d1a4719dea9fa15ccec203f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-02-12T23:46:07",
+                                "name": "Head Mesh Default.lsmat",
+                                "hash": "0f646806654fab1a8ba2fa8c4873f9a2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-02-12T23:47:05",
+                                "name": "Sphere.mesh",
+                                "hash": "ffbce66d7c12d942b13208740e9d0059",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T13:26:46",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-02-13T00:04:42",
+                                "name": "PBR.lsmat",
+                                "hash": "ae49924c992573f879519477830e1a24",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-01-14T13:26:46",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "uid": "1613191566715577:106827",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "14",
+                                "dependency": "0",
+                                "uid": "1613191566819474:106924",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "969",
+                                "source": "\/private\/var\/folders\/g7\/4kjb9v7d10d5wfd488wmsp1m0000gn\/T\/Lens Studio-EHaaQg\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "uid": "1613191566831790:106940",
+                                "fileId": "12",
+                                "originalId": "13",
+                                "publicId": "970",
+                                "source": "\/private\/var\/folders\/g7\/4kjb9v7d10d5wfd488wmsp1m0000gn\/T\/Lens Studio-EHaaQg\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "16",
+                                "dependency": "0",
+                                "uid": "1613191566841421:106952",
+                                "fileId": "14",
+                                "originalId": "15",
+                                "publicId": "971",
+                                "source": "\/private\/var\/folders\/g7\/4kjb9v7d10d5wfd488wmsp1m0000gn\/T\/Lens Studio-EHaaQg\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Face Mesh Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "uid": "1613191858085570:144042",
+                                "fileId": "20",
+                                "originalId": "21",
+                                "publicId": "974",
+                                "source": "\/private\/var\/folders\/g7\/4kjb9v7d10d5wfd488wmsp1m0000gn\/T\/Lens Studio-EHaaQg\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Head Mesh Default",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "13",
+                        "dependency": "0",
+                        "uid": "1613191566749391:106871",
+                        "fileId": "8",
+                        "originalId": "9",
+                        "publicId": "972",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Sphere",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1613191625783954:114412",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "973",
+                        "source": "\/private\/var\/folders\/g7\/4kjb9v7d10d5wfd488wmsp1m0000gn\/T\/Lens Studio-EHaaQg\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh 2",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "18",
+                        "dependency": "0",
+                        "uid": "1613191857981131:143932",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "externalFaceMeshID": "4294967295",
+                            "externalFaceWtihSkull": "true"
+                        }
+                    },
+                    {
+                        "name": "Face Mesh Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "uid": "1613191858015622:143969",
+                        "fileId": "18",
+                        "originalId": "19",
+                        "publicId": "975",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "PBR",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "uid": "1613192571947568:244779",
+                        "fileId": "22",
+                        "originalId": "23",
+                        "publicId": "976",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "AmaticSC",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1613192865469276:284841",
+                        "fileId": "24",
+                        "originalId": "18446744073709551615",
+                        "publicId": "977",
+                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Fonts\/AmaticSC-Regular.ttf",
+                        "additional": ""
+                    },
+                    {
+                        "name": "VT323",
+                        "type": "13",
+                        "subtype": "0",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "uid": "1613192872819269:285926",
+                        "fileId": "25",
+                        "originalId": "18446744073709551615",
+                        "publicId": "978",
+                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Fonts\/VT323-Regular.ttf",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        }
+    }
+}
