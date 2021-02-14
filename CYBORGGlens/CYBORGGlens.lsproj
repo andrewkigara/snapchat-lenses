@@ -3,7 +3,7 @@
     "document_id": "_19rCCDslMLQTEMAcdfc",
     "original_document_id": "_19rCCDslMLQTEMAcdfc",
     "version": "26",
-    "lastChanged": "1613193393105",
+    "lastChanged": "1613194700444",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -29,9 +29,6 @@
         "ResourceUiComponent": {
             "collapsedList": [
                 [
-                    [
-                        "AmaticSC"
-                    ],
                     [
                         "Echopark"
                     ],
@@ -125,11 +122,11 @@
                 "spectacles_preview_is_favorite": "false"
             },
             "preview_ie_project_config": {
-                "back_preview_id": "",
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
                 "spectacles_preview_is_favorite": "false"
             }
         },
@@ -256,14 +253,6 @@
                     "resId": "21",
                     "uid": "1613192571947568:244779",
                     "name": "Files\/File22",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "22",
-                    "uid": "1613192865469276:284841",
-                    "name": "Files\/File24.ttf",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -414,10 +403,6 @@
                     "v": "Files\/File23.lsmat"
                 },
                 {
-                    "k": "24",
-                    "v": "Files\/File24.ttf"
-                },
-                {
                     "k": "25",
                     "v": "Files\/File25.ttf"
                 }
@@ -473,10 +458,6 @@
                         "v": "PBR.lsmat"
                     },
                     {
-                        "k": "977",
-                        "v": "AmaticSC.ttf"
-                    },
-                    {
                         "k": "978",
                         "v": "VT323.ttf"
                     }
@@ -520,7 +501,7 @@
                     },
                     {
                         "k": "975",
-                        "v": "ade14805e87fcc1e7d7918bfa4d46e06"
+                        "v": "1b7b90509efb77923bccb08be04ac3d7"
                     },
                     {
                         "k": "976",
@@ -538,13 +519,13 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2021-02-13T00:14:59",
+                        "lastModified": "2021-02-13T00:38:17",
                         "name": "Public",
-                        "hash": "c409a56efca83baa84ba7d478ca3a7cb",
+                        "hash": "d8caf0b61740ff3da161ee8e83c87a24",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2021-02-13T00:14:57",
+                                "lastModified": "2021-02-13T00:15:07",
                                 "name": "Textures",
                                 "hash": "5fb615e505e6f3de5510132c6de8fb5a",
                                 "children": [
@@ -587,16 +568,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2021-01-14T13:27:06",
-                                "name": "AmaticSC.ttf",
-                                "hash": "c4c985708dbf7b64111359a8abb2292d",
-                                "children": ""
-                            },
-                            {
-                                "isFolder": "false",
-                                "lastModified": "2021-02-13T00:14:59",
+                                "lastModified": "2021-02-13T00:16:32",
                                 "name": "Face Mesh Default.lsmat",
-                                "hash": "b28928d1a142613fccfb800d3418dff0",
+                                "hash": "ade14805e87fcc1e7d7918bfa4d46e06",
                                 "children": ""
                             },
                             {
@@ -872,19 +846,6 @@
                         "originalId": "23",
                         "publicId": "976",
                         "source": "",
-                        "additional": ""
-                    },
-                    {
-                        "name": "AmaticSC",
-                        "type": "13",
-                        "subtype": "0",
-                        "resourceId": "22",
-                        "dependency": "0",
-                        "uid": "1613192865469276:284841",
-                        "fileId": "24",
-                        "originalId": "18446744073709551615",
-                        "publicId": "977",
-                        "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Fonts\/AmaticSC-Regular.ttf",
                         "additional": ""
                     },
                     {
